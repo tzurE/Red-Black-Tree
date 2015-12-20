@@ -1,4 +1,4 @@
 # Red-Black-Tree
 An implementation of the RB Binary tree, as described in 'Introduction to Algorithms', by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen
 
-This game was made with Assaf .O
+This was made with Assaf .O
